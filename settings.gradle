@@ -1,0 +1,3 @@
+include ':stringviewmodel'
+include ':app'
+rootProject.name = "AbuStringViewModel"
